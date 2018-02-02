@@ -1,2 +1,3 @@
 testfile
 Editing testfile.
+reset test 2.
